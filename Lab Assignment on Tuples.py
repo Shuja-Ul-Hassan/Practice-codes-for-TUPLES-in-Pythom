@@ -4,8 +4,7 @@
 # In[1]:
 
 
-#Reg Id=FA25-BBD-169
-#Lab Assignment on Tuples
+
 
 
 # In[3]:
